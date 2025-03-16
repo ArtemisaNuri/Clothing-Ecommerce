@@ -1,6 +1,4 @@
-
-
-This project is built with .
+This project is built with :
 
 - Vite
 - TypeScript
@@ -9,4 +7,4 @@ This project is built with .
 - Tailwind CSS
 
 
-
+https://clothing-ecommerce-opal.vercel.app/
